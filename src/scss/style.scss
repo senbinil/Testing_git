@@ -1,0 +1,24 @@
+$title_size:30px;
+
+
+.title{
+    font-size: $title_size;
+    font-weight: lighter;
+}
+input{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.btn_sub{
+    text-align: center;
+}
+.content{
+    margin-bottom: 50px;
+}
+body{
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+ 
+}
